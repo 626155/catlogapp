@@ -11,6 +11,10 @@ class CatalogView extends StatelessWidget {
           "Catalog App",
         ),
       ),
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [],
+      ),
     );
   }
 }
